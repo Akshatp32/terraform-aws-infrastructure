@@ -1,0 +1,4 @@
+aws_region   = "ap-south-1"
+key_name     = "your_key_here"
+environment  = "dev"
+instance_type = "t2.micro"
